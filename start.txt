@@ -1,0 +1,12 @@
+Om Gam Ganapathaye Namaha
+OM Namaha Shivaya
+Om Sri Lakshminarasimhaswamine Namaha
+:q
+:wq
+`:wq
+!q
+:q
+:q
+:quit
+:exit
+:WQ
